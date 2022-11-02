@@ -1,0 +1,10 @@
+.center-align .parent {
+  height: 300px;
+  border: 1px solid #999;
+}
+
+.center-align .child {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
